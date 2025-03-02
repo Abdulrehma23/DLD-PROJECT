@@ -1,1 +1,1 @@
-# DLD-PROJECT
+# Digital logic design -PROJECTs
